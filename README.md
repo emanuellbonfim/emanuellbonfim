@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá eu sou o Emanuel Bonfim, profissional de Tecnologia da Informação
+## Olá! 👋 Eu sou o Emanuel Bonfim, profissional de Tecnologia da Informação
 
 - 🔭 Atualmente estou trabalhando como DEV
 - 🌱 Estou estudando Inglês
